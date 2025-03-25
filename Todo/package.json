@@ -1,0 +1,19 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaehyun Kim",
+  "license": "ISC",
+  "description": "todo list",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "moment-timezone": "^0.5.48",
+    "mongoose": "^8.12.2",
+    "path": "^0.12.7"
+  }
+}
